@@ -36,5 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamswet&show_icons=true&locale=en" alt="iamswet" /></p>
 
 <center>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamswet&" alt="iamswet" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamswet&theme=shadow_green" alt="iamswet" />
 </center>
