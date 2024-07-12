@@ -38,6 +38,3 @@
 <center>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamswet&theme=neon" alt="iamswet" />
 </center>
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
