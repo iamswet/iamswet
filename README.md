@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swet Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="code" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstZYNAsssLmMpQOBgFo6mI4d47NG39wCa9RTjCiT-IdWE1vXiWVl1u14JUBctK4M6tbY&usqp=CAU" >
+<img align="right" alt="code" width="400" src="custom.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamswet&label=Profile%20views&color=0e75b6&style=flat" alt="iamswet" /> </p>
 
 
