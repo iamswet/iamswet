@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamswet&label=Profile%20views&color=0e75b6&style=flat" alt="iamswet" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/whyswet" target="blank"><img src="https://img.shields.io/twitter/follow/whyswet?logo=twitter&style=for-the-badge" alt="whyswet" /></a> </p>
+<p align="left"> <a href="custom.gif" alt="whyswet" /></a> </p>
 
 - 🔭 I’m currently working on **Netflix clone page**
 
