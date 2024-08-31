@@ -5,7 +5,6 @@
 
 
 
-
 - 🔭 I’m currently working on **Netflix clone page**
 
 - 🌱 I’m currently learning **Javascript, PHP**
