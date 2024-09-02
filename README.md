@@ -3,7 +3,6 @@
 <img align="right" alt="code" width="400" src="custom.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamswet&label=Profile%20views&color=0e75b6&style=flat" alt="iamswet" /> </p>
 
-
 - 🔭 I’m currently working on **Netflix clone page**
 
 - 🌱 I’m currently learning **Javascript, PHP**
@@ -14,7 +13,7 @@
 
 - 💬 Ask me about **C++, HTML, CSS, Python**
 
-- 📫 How to reach me **isitswet@gmail.com**
+- 📫 How to reach me **hiswets3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
