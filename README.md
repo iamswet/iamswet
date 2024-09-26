@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swet Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=isitswet&animated=true&theme=monokai" alt="LeetCode Badges"/>
-
 <img align="right" alt="code" width="400" src="custom.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamswet&label=Profile%20views&color=0e75b6&style=flat" alt="iamswet" /> </p>
 
@@ -41,3 +39,7 @@
 <center>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamswet&theme=neon" alt="iamswet" />
 </center>
+
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=isitswet&animated=true&theme=monokai" alt="LeetCode Badges"/>
+
