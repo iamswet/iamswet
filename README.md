@@ -37,9 +37,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamswet&theme=neon&show_icons=true&locale=en" alt="iamswet" /></p>
 
 <center>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamswet&theme=neon" alt="iamswet" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamswet&theme=neon&layout=compact" alt="iamswet" />
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=isitswet&animated=true&theme=monokai" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=isitswet&animated=true&theme=neon&layout=compact" alt="LeetCode Badges"/>
 </center>
 
 
