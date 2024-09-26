@@ -38,8 +38,9 @@
 
 <center>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamswet&theme=neon" alt="iamswet" />
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=isitswet&animated=true&theme=monokai" alt="LeetCode Badges"/>
 </center>
 
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=isitswet&animated=true&theme=monokai" alt="LeetCode Badges"/>
 
