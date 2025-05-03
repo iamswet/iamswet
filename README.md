@@ -7,7 +7,6 @@
 
 
 
-
 - 🔭 I’m currently working on **Netflix Clone**
 
 - 🌱 I’m currently learning **NodeJS**
