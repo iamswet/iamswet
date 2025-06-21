@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **S.T.U Reach**
 
-- 📝 I regularly write articles on [gfg](gfg)
-
 - 💬 Ask me about **C++, HTML, CSS, Python**
 
 - 📫 How to reach me **hiswets3@gmail.com**
