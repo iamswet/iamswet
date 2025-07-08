@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently working on **Sociala**
 
 - 🌱 I’m currently learning **NodeJS**
 
