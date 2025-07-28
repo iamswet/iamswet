@@ -5,7 +5,6 @@
 
 
 
-
 - 🔭 I’m currently working on **Sociala**
 
 - 🌱 I’m currently learning **NodeJS**
